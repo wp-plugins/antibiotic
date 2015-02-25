@@ -1,14 +1,14 @@
 <?php
 /**
  * @package Antibiotic
- * @version 1.0
+ * @version 1.1
  */
 /*
-	Plugin Name: Antibiotic | WordPress Antivirus and Hack Protection
-	Plugin URI: http://www.rasmuskjellberg.se/wordpress-plugins/rk-wp-antivirus/
+	Plugin Name: Antibiotic
+	Plugin URI: http://www.rasmuskjellberg.se/wordpress-plugins/antibiotic/
 	Description: WordPress Antivirus and Hack protection. This is just a BETA version. More functions are planned and will be launched soon. Look for an update :) 
 	Author: Rasmus Kjellberg
-	Version: 1.0.1
+	Version: 1.1
 	Author URI: http://www.rasmuskjellberg.se/
 */
 
@@ -29,7 +29,7 @@
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
 // Define some good constants.
-define( 'ANTIBIOTIC_VERSION', '1.0.1' );
+define( 'ANTIBIOTIC_VERSION', '1.1' );
 define( 'ANTIBIOTIC__PLUGIN_URL', plugin_dir_url( __FILE__ ) );
 define( 'ANTIBIOTIC__PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 
