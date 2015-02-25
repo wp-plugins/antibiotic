@@ -6,7 +6,7 @@
 /*
 	Plugin Name: Antibiotic
 	Plugin URI: http://www.rasmuskjellberg.se/wordpress-plugins/antibiotic/
-	Description: WordPress Antivirus and Hack protection. This is just a BETA version. More functions are planned and will be launched soon. Look for an update :) 
+	Description: WordPress Antivirus and Hack protection. More functions are planned and will be launched soon. Look for an update :) 
 	Author: Rasmus Kjellberg
 	Version: 1.1
 	Author URI: http://www.rasmuskjellberg.se/
